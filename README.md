@@ -1,5 +1,5 @@
 # TFC_Runs
-Get number of runs from TFC
+Get the total number of runs executed in TFC
 
 ## Requirements:
 * `python3` and `pip3`
